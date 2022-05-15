@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 
+/* 
+* The problem description could be found in PEOPLE.md file
+* PEOPLE.md is located in the root directory of the project
+*/
 namespace People
 {
     internal class People
