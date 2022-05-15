@@ -5,6 +5,7 @@ using System.Linq;
 /* 
 * The problem description could be found in PEOPLE.md file
 * PEOPLE.md is located in the root directory of the project
+* Link to the description - https://github.com/kamenminkovcom/collections-unibit/blob/master/PEOPLE.md
 */
 namespace People
 {
