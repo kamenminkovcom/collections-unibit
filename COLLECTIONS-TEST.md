@@ -54,7 +54,7 @@
   C) string  
   D) KeyValuePair<string, int>  
 
-10) Коя от изброените колекции спазва принципа **LIFO**?
+10) Коя от изброените колекции спазва принципа **LIFO**?  
   A) Stack  
   B) Queue  
   C) List\<T\>  
