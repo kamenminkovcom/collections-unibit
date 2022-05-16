@@ -17,8 +17,6 @@ namespace People
             int YOUTH_LIMIT = 35;
             List<Person> people = new List<Person>();
 
-            string searchOccupation = Console.ReadLine();
-
             while (true)
             {
                 string input = Console.ReadLine();
@@ -30,6 +28,8 @@ namespace People
                 string[] personInfo = input.Split(' ');
                 people.Add(new Person(personInfo[0], int.Parse(personInfo[1]), personInfo[2]));
             }
+
+            string searchOccupation = Console.ReadLine();
 
             List<string> searchPeopleNames = people
                 .Where(person => person.Age <= YOUTH_LIMIT && person.Occupation == searchOccupation)
