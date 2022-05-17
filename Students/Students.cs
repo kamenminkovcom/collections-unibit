@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 
+/* 
+* The problem description could be found in STUDENTS.md file
+* STUDENTS.md is located in the root directory of the project
+* Link to the description - https://github.com/kamenminkovcom/collections-unibit/blob/master/STUDENTS.md
+*/
+
 namespace Students
 {
     internal class Students
